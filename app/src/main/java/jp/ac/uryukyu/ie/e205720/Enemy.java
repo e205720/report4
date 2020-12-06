@@ -41,6 +41,7 @@ class LivingThing{
     public void setHitPoint(int hitPoint) {
         this.hitPoint = hitPoint;
     }
+    
 }
 
 public class Enemy extends LivingThing {
